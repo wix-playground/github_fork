@@ -9,11 +9,15 @@
   },
   "devDependencies": {
     "mocha": "*",
-    "chai": "*"
+    "chai": "*",
+    "tape": "~2.1.0",
+    "beefy": "~0.4.5",
+    "browserify": "~2.35.1",
+    "console-log": "~1.0.0"
   },
   "scripts": {
-    "test": "mocha"
-
+    "test": "node test/test.js",
+    "start": "beefy test/test.js"
   },
   "repository": {
     "type": "git",
@@ -96,5 +100,4 @@
     ],
     "harness": "mocha"
   }
-
 }
