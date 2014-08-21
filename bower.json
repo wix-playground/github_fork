@@ -1,0 +1,17 @@
+{
+  "name": "wix-github",
+  "version": "0.9.0",
+  "homepage": "https://github.com/wix/github_fork",
+  "authors": [
+    "Ofir Dagan <ofird@wix.com>"
+  ],
+  "description": "Wix fork of github",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
