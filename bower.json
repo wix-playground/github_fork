@@ -9,7 +9,7 @@
   "repository": {
   "type": "git",
   "url": "git://github.com/wix/github_fork.git"
-}
+},
   "license": "MIT",
   "ignore": [
     "**/.*",
